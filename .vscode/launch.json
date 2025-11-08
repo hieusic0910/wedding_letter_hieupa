@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "c:\\Users\\ETRANTHYW\\Downloads\\wedding_letter-main\\wedding_letter-main\\index.html"
+            "name": "Open nha-gai.html",
+            "file": "/Users/hieu/wedding_letter_hieupa/nha-gai.html"
         }
     ]
 }
