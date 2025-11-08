@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open nha-gai.html",
-            "file": "/Users/hieu/wedding_letter_hieupa/nha-gai.html"
+            "name": "Open index.html",
+            "file": "/Users/hieu/wedding_letter_hieupa/index.html"
         }
     ]
 }
